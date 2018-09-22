@@ -30,6 +30,6 @@ touch /var/log/rss_torrent_connector.log
 ```
 4. Run the utility:
 ```
-java -jar rtc-0.0.1-jar-with-dependencies.jar -c Config.properties
+java -jar rtc-0.2.1-jar-with-dependencies.jar -c Config.properties
 
 ```
