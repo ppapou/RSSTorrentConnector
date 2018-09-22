@@ -4,6 +4,9 @@
 # Idia file
 .idea/
 
+# Target directory
+target/
+
 # Log file
 *.log
 
